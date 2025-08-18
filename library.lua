@@ -56,7 +56,7 @@ getgenv().library = {
 	keybind_path,
 	panel_open = false,
 
-	directory = "inactivity",
+	directory = "Arex.cc",
 	folders = {
 		"/fonts",
 		"/configs",
